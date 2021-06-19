@@ -1,0 +1,15 @@
+5f82ab3 HEAD@{0}: checkout: moving from 5f82ab30dcc35689b8f07591424b3a3c29796c2e to deathedHeadBranch
+5f82ab3 HEAD@{1}: commit: detachedHeadCommit
+e4ee1f1 HEAD@{2}: checkout: moving from main to e4ee1f1ea1e2
+f227461 HEAD@{3}: pull: Fast-forward
+c2d1571 HEAD@{4}: checkout: moving from texts to main
+09c0a4a HEAD@{5}: commit: Kant Rozprawa
+e4ee1f1 HEAD@{6}: commit: Lorem ipusum
+c2d1571 HEAD@{7}: checkout: moving from main to texts
+c2d1571 HEAD@{8}: pull: Fast-forward
+03710e9 HEAD@{9}: checkout: moving from personal_details to main
+080ccf9 HEAD@{10}: commit: E-mail adress
+957999e HEAD@{11}: commit: Index number
+133d5c9 HEAD@{12}: commit: First name and last name
+03710e9 HEAD@{13}: checkout: moving from main to personal_details
+03710e9 HEAD@{14}: clone: from https://github.com/bartoolina/lab_exam.git
