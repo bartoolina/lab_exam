@@ -1,1 +1,2 @@
-# lab_exam
+# lab_exam  
+First name and last name: Marcin Nowak  
